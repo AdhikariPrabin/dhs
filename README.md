@@ -1,2 +1,0 @@
-# DHS
-Dhayare Hardware Suppliers
